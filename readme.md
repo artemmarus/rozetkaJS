@@ -34,4 +34,4 @@ Summary: ”Try to login in account”
 2. Open user account page.
 3. Login in account 
 Fail: checkbox "You need to confirm that you are not a robot" 
-# rozetkaJS
+
